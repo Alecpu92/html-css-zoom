@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+}
+i{
+    color: white;
+}
+span{
+    color: white;
+    margin-top: 25px;
+    margin-right: 20px;
+}
